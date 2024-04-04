@@ -48,5 +48,4 @@ const printWeekZmanim = (location) => {
 
     console.table(tableData);
 };
-
 printWeekZmanim("New York");
